@@ -1,5 +1,17 @@
 # ISLE: Instruction Selection/Lowering Expressions DSL
 
+## Moved into Cranelift/Wasmtime repository
+
+Since the [RFC to use this DSL in
+Cranelift](https://github.com/bytecodealliance/rfcs/pull/15) was accepted, we
+have [merged](https://github.com/bytecodealliance/wasmtime/pull/3506) the ISLE
+compiler into the [Wasmtime/Cranelift
+repository](https://github.com/bytecodealliance/wasmtime/tree/main/cranelift/isle/).
+This repository's commit history was incorporated as part of that PR. It is now
+a read-only archive. Thank you for visiting and please send questions,
+comments, concerns, and suggestions for bikeshed colors [👉over that
+way👉](https://github.com/bytecodealliance/wasmtime/tree/main/cranelift/isle/)!
+
 ## Table of Contents
 
 * [Introduction](#introduction)
